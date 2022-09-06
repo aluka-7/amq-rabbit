@@ -16,7 +16,7 @@ import (
 
 func main() {
 	conf := configuration.MockEngine(nil, backends.StoreConfig{Exp: map[string]string{
-		"/fc/base/amq/biz": "{\"provider\":\"Rabbit\",\"parameter\":{\"username\":\"guest\",\"password\":\"guest\",\"brokerURL\":\"localhost:5672\"},\"partitions\":1}",
+		"/system/base/amq/biz": "{\"provider\":\"Rabbit\",\"parameter\":{\"username\":\"guest\",\"password\":\"guest\",\"brokerURL\":\"localhost:5672\"},\"partitions\":1}",
 	}})
 	if client, err := amq.Engine(conf, "8888").Client(node.BIZ); err == nil {
 		client.AddProcessor(&receiverProcessor{})

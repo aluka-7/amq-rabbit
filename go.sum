@@ -1,5 +1,5 @@
-github.com/aluka-7/amq v1.0.1 h1:O5OtAnuhCLcj8ycse2gGrmmcA/goHTeCbKSdNFdl5gM=
-github.com/aluka-7/amq v1.0.1/go.mod h1:ysB0JqpF1GsIazhqLTI4PCeQQ1udYBvN/q3yPfYVVr8=
+github.com/aluka-7/amq v1.0.2 h1:3Glp9qlrcbELvVwTUNkJ1HaX+UjRpBVDQb1EheyUnqQ=
+github.com/aluka-7/amq v1.0.2/go.mod h1:ysB0JqpF1GsIazhqLTI4PCeQQ1udYBvN/q3yPfYVVr8=
 github.com/aluka-7/configuration v1.0.1 h1:pwgtPsPf0St5q4xfxQM4pRzkVPEvqHg+c0M0zADzZlI=
 github.com/aluka-7/configuration v1.0.1/go.mod h1:xuAfWtPzUt6YvV3nuKeSf7DFy3K8QBvebL8B8tDR2Gs=
 github.com/aluka-7/rabbitmq v1.0.1 h1:A4rzuBszGVeu59tG2EQy8KUcI0+6C378CfF/CZl3G1A=
